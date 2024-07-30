@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       boxShadow: {
-        "costum": "rgba(0, 0, 0, 0.1) -4px 9px 25px -6px;"
+        "costum": "rgba(0, 0, 0, 0.1) -4px 9px 25px -6px"
       },
     },
   },
